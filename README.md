@@ -33,8 +33,3 @@ This project is a web application that predicts the likelihood of heart failure 
 
 ## 📊 Dataset
 We utilized a publicly available dataset for heart failure prediction, ensuring high-quality data preprocessing and feature engineering to optimize the model.
-
-## 🚀 Getting Started
-### Prerequisites
-- Python 3.9 or above
-- Required libraries: `streamlit`, `scikit-learn`, `pandas`, `numpy`
