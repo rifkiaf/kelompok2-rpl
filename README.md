@@ -26,6 +26,7 @@ This project is a web application that predicts the likelihood of heart failure 
 - **Machine Learning Model**: [Colab Notebook](https://colab.research.google.com/drive/1onz6VDQP0KPQx5vY0QGxxOzij9s25NhJ?usp=sharing)
 - **Web Application**: [Live Demo](https://kelompok2-rpl-nyjlxpxv9hbu8cvu9ccuys.streamlit.app/)
 - **Board**: [Trello](https://trello.com/invite/b/6786713c0975e18f6bfe7ab2/ATTI02b8b9a9056207b27aa2ddfbd4b8336b1C7CD580/web-pendeteksi-gagal-jantung)
+- **Diagram**: [Drawio](https://drive.google.com/file/d/1RgBF0gBPIqAzu5tzKSyzjn_WKmDZPaw2/view?usp=sharing)
 
 ## 🧠 How It Works
 1. **Input Patient Data**: Enter clinical data such as age, gender, blood pressure, cholesterol levels, and other relevant factors.
