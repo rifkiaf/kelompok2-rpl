@@ -35,3 +35,4 @@ Proyek ini adalah aplikasi web yang memprediksi kemungkinan gagal jantung menggu
 
 ## 📊 Dataset
 Kami menggunakan dataset publik untuk prediksi gagal jantung, dengan memastikan proses preprocessing data dan rekayasa fitur berkualitas tinggi untuk mengoptimalkan model.
+[Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
