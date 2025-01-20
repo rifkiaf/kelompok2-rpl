@@ -1,37 +1,37 @@
-# 💖 Heart Failure Detection Web Application
+# 💖 Aplikasi Web Pendeteksi Gagal Jantung
 
-# 🤝 Contributors
+# 🤝 Kontributor
 - **Rifki Ahmad Fahreizi**
 - **Muhammad Nur Alifiansyah**
 - **Muhamad Rizky Ramadhana**
 - **Jihan Putri Halifia**
 
-## 📋 Overview
-This project is a web application that predicts the likelihood of heart failure using machine learning. Built as part of our software engineering project, the system leverages advanced models and a user-friendly interface to deliver accurate predictions and insights.
+## 📋 Gambaran Umum
+Proyek ini adalah aplikasi web yang memprediksi kemungkinan gagal jantung menggunakan machine learning. Dibangun sebagai bagian dari proyek rekayasa perangkat lunak, sistem ini memanfaatkan model canggih dan antarmuka yang ramah pengguna untuk memberikan prediksi dan wawasan yang akurat.
 
-## 🌟 Features
-- **Machine Learning Model**: Uses a trained model for heart failure prediction.
-- **User-Friendly Interface**: Powered by Streamlit for a smooth and interactive experience.
-- **Real-Time Predictions**: Input patient data and get instant results.
-- **Deployed on the Web**: Accessible online from any device.
+## 🌟 Fitur
+- **Model Machine Learning**: Menggunakan model terlatih untuk prediksi gagal jantung.
+- **Antarmuka Ramah Pengguna**: Dibangun dengan Streamlit untuk pengalaman yang interaktif dan mulus.
+- **Prediksi Real-Time**: Masukkan data pasien dan dapatkan hasil langsung.
+- **Dapat Diakses Online**: Tersedia secara daring melalui berbagai perangkat.
 
-## 🛠️ Tech Stack
-- **Frontend**: Streamlit (Python-based web framework)
-- **Backend**: Google Colab for model training and Streamlit for deployment
-- **Machine Learning**: Scikit-learn, Pandas, and NumPy for data analysis and model building
+## 🛠️ Teknologi yang Digunakan
+- **Frontend**: Streamlit (kerangka kerja web berbasis Python)
+- **Backend**: Google Colab untuk pelatihan model dan Streamlit untuk deployment
+- **Machine Learning**: Scikit-learn, Pandas, dan NumPy untuk analisis data dan pembuatan model
 - **Deployment**: Streamlit Cloud
 
-## 📖 Project Documentation
+## 📖 Dokumentasi Proyek
 - **Proposal**: [Project Proposal](https://docs.google.com/document/d/1vPjI0dDhHkdBc76qyGS2G7n8PVcos0HnDjb2s6iwrDY/edit?usp=sharing)
-- **Machine Learning Model**: [Colab Notebook](https://colab.research.google.com/drive/1onz6VDQP0KPQx5vY0QGxxOzij9s25NhJ?usp=sharing)
-- **Web Application**: [Live Demo](https://kelompok2-rpl-nyjlxpxv9hbu8cvu9ccuys.streamlit.app/)
-- **Board**: [Trello](https://trello.com/invite/b/6786713c0975e18f6bfe7ab2/ATTI02b8b9a9056207b27aa2ddfbd4b8336b1C7CD580/web-pendeteksi-gagal-jantung)
+- **Model Machine Learning**: [Colab Notebook](https://colab.research.google.com/drive/1onz6VDQP0KPQx5vY0QGxxOzij9s25NhJ?usp=sharing)
+- **Aplikasi Web**: [Live Demo](https://kelompok2-rpl-nyjlxpxv9hbu8cvu9ccuys.streamlit.app/)
+- **Papan Proyek**: [Trello](https://trello.com/invite/b/6786713c0975e18f6bfe7ab2/ATTI02b8b9a9056207b27aa2ddfbd4b8336b1C7CD580/web-pendeteksi-gagal-jantung)
 - **Diagram**: [Drawio](https://drive.google.com/file/d/1RgBF0gBPIqAzu5tzKSyzjn_WKmDZPaw2/view?usp=sharing)
 
-## 🧠 How It Works
-1. **Input Patient Data**: Enter clinical data such as age, gender, blood pressure, cholesterol levels, and other relevant factors.
-2. **Model Prediction**: The machine learning model processes the input and predicts the likelihood of heart failure.
-3. **View Results**: The result is displayed with additional information and recommendations.
+## 🧠 Cara Kerja
+1. **Input Data Pasien**: Masukkan data klinis seperti usia, jenis kelamin, tekanan darah, kadar kolesterol, dan faktor relevan lainnya.
+2. **Prediksi Model**: Model machine learning memproses input dan memprediksi kemungkinan gagal jantung.
+3. **Lihat Hasil**: Hasil ditampilkan bersama informasi tambahan dan rekomendasi.
 
 ## 📊 Dataset
-We utilized a publicly available dataset for heart failure prediction, ensuring high-quality data preprocessing and feature engineering to optimize the model.
+Kami menggunakan dataset publik untuk prediksi gagal jantung, dengan memastikan proses preprocessing data dan rekayasa fitur berkualitas tinggi untuk mengoptimalkan model.
